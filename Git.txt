@@ -5,3 +5,5 @@ Continuação da Aula de GIT!!!!!
 Logo vamos embora...
 
 Porém, agora está chovendo!
+
+Agora parou de chover
